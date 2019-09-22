@@ -1,0 +1,1 @@
+# Text_Detection_and_Recognition-using-SVM
